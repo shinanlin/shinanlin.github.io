@@ -8,7 +8,6 @@ venue: 'IEEE Transactions on Neural Systems and Rehabilitation Engineering'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Shi N, Li X, Liu B, et al. Representative-Based Cold Start for Adaptive SSVEP-BCI[J]. IEEE Transactions on Neural Systems and Rehabilitation Engineering, 2023, 31: 1521-1531.'
 ---
-Cold start
 
 [Download paper here](http://academicpages.github.io/files/paper3.pdf)
 

@@ -8,8 +8,7 @@ venue: 'Nature Communications'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 citation: 'Wang Z, Shi N, Zhang Y, et al. Conformal in-ear bioelectronics for visual and auditory brain-computer interfaces[J]. Nature Communications, 2023, 14(1): 4213.'
 ---
-Conformal in-ear bioelectronics for visual and auditory brain-computer interfaces
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+<!-- [Download paper here](http://academicpages.github.io/files/paper2.pdf) -->
 
 ![Illustration of information channel](../images/inear.png)
