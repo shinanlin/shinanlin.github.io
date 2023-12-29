@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-paperurl: '<http://academicpages.github.io/files/paper2.pdf>'
+Download full CV here: '<http://shinanlin.github.io/files/shinl_cv.pdf>'
 
 Education
 ======
