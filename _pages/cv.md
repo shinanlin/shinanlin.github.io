@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+paperurl: '<http://academicpages.github.io/files/paper2.pdf>'
+
 Education
 ======
 * B.S. in Biomedical Engineering, Xi'an Jiaotong University, 2018
@@ -19,10 +21,16 @@ Skills
 ======
 * EEG signal acquisition
 * Neural signal processing
-  * Encoding:
-  * Decoding:
-  * Information theroy
+  * Encoding: Linear dynamic system, system identification, temporal receptive field
+  * Decoding: component analysis, template matching
+  * Information theroy: mutual information
 * Online BCI system
+  * TCP/IP communication
+  * Kafka
+* Code and design
+  * Python: mne/pandas/matplotlib/seaborn/...
+  * Matlab
+  * Adobe Illstrator
 
 Publications
 ======
