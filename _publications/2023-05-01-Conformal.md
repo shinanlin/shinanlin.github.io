@@ -12,3 +12,4 @@ Conformal in-ear bioelectronics for visual and auditory brain-computer interface
 
 [Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
+![Illustration of information channel](../images/inear.png)

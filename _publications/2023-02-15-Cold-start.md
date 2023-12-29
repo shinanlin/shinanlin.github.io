@@ -11,3 +11,5 @@ citation: 'Shi N, Li X, Liu B, et al. Representative-Based Cold Start for Adapti
 Cold start
 
 [Download paper here](http://academicpages.github.io/files/paper3.pdf)
+
+![Illustration of information channel](../images/transfer.png)
